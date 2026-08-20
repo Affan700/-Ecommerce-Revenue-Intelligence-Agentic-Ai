@@ -210,6 +210,4 @@ Rather than claiming an unsupported percentage increase in revenue, the measurab
 
 ---
 
-## 📂 Project Structure
  
-└── requirements.txt
